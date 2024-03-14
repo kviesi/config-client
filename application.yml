@@ -1,8 +1,1 @@
-route:
-  opkeys:
-    products:
-      method: GET
-      uri: https://dummyjson.com/products
-    posts:
-      method: GET
-      uri: https://dummyjson.com/posts
+
