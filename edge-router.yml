@@ -2,3 +2,5 @@ route:
   opkeys:
     dummy:
       uri: https://dummyjson.com
+    contatos:
+      uri: https://localhost:8081
